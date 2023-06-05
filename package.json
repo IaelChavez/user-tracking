@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "@vitejs/plugin-basic-ssl": "^1.0.1",
-    "ol": "^7.3.0"
+    "ol": "^7.4.0"
   }
 }
